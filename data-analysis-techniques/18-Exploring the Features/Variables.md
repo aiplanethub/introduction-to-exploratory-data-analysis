@@ -1,3 +1,5 @@
+# Exploring the Features/Variables
+
 <p><span style="color:#212121">Variables and features both are the same, they are often used interchangeably. All the column names in a dataset are variables.</span></p>
 
 <p><span style="color:#212121">Let&#39;s explore the features/columns of the datasets.</span></p>
