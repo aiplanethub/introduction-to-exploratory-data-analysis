@@ -6,6 +6,6 @@
 
 <h2><span style="color:#212121"><span style="background-color:#ffffff"><strong>Observation:</strong></span></span></h2>
 
-<p><span style="color:#212121"><span style="background-color:#ffffff">The average(5-7) quality of wines are more than good(1-4) and bad(8-10) quality of wines.</span></span></p>
+<p><span style="color:#212121"><span style="background-color:#ffffff">The average(5-7) quality of wines are more than good(8-10) and bad(1-4) quality of wines.</span></span></p>
 
 <p>&nbsp;</p>
