@@ -2,6 +2,8 @@
 
 <p><span style="color:#212121"><span style="background-color:#ffffff">Count plot is a graphical display to show the number of occurrences or frequency for each categorical data using bars.</span></span></p>
 
+<p><span style="color:#212121"><span style="background-color:#ffffff">Correction for the code below: <code>sns.countplot(red_wine_data, x=red_wine_data.quality)</code></span></span></p>
+
 <p style="text-align:center"><img alt="" height="575" src="https://dphi-courses.s3.ap-south-1.amazonaws.com/introduction-to-eda/Module3/eda3m6.png" width="695" /></p>
 
 <h2><span style="color:#212121"><span style="background-color:#ffffff"><strong>Observation:</strong></span></span></h2>
