@@ -61,7 +61,7 @@
 <h3><span style="color:#212121"><strong>Observations:</strong></span></h3>
 
 <ul>
-	<li style="list-style-type:disc"><span style="color:#212121">Here as you can notice the median value is less than the mean value of each column (except for quality). The Median is represented by 50%(50th percentile) in the index column.</span>This signifies the presence of Outliers. For example for intuition, let's imagine a data set includes values: 2, 4, 6, 30. The mean value: 10.5, which is lower than the median of the data (5), is greatly affected by the extreme data point(30).&nbsp;</li>
+	<li style="list-style-type:disc"><span style="color:#212121">Here as you can notice the median value is less than the mean value of each column (except for quality). The Median is represented by 50%(50th percentile) in the index column.</span>This signifies the presence of Outliers. For example for intuition, let's imagine a data set includes values: 2, 4, 6, 30. The mean value: 10.5, which is higher than the median of the data (5), is greatly affected by the extreme data point(30).&nbsp;</li>
 	<li style="list-style-type:disc"><span style="color:#212121">There is notably a large difference between 75th %tile and max values of predictors &ldquo;residual sugar&rdquo;, &rdquo; free sulfur dioxide&rdquo;, &rdquo; total sulfur dioxide&rdquo;.&nbsp;</span><span style="color:#212121">This indicates that some values of these 3 variables lie much farther from the general range of values( up to 75th %tile)&nbsp;</span></li>
 	<li style="list-style-type:disc"><span style="color:#212121">Thus, the observations 1 and 2 suggest that there are extreme values i.e Outliers in our dataset.&nbsp;</span></li>
 </ul>
